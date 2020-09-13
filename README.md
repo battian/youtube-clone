@@ -3,7 +3,6 @@ Youtube UI Clone
 </h1>
 
 <p align="center">Youtube UI Clone (home page) for study purposes.</p>
-<p align="center">Deployed <a href="https://youtube-clone-13092020.netlify.app/">here</a>.</p>
 
 <hr>
 
